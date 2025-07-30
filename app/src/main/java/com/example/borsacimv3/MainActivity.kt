@@ -17,5 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         println("sadece")
+        println("sadece2")
     }
 }
